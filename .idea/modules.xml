@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OSRS-Exchange-Pricer.iml" filepath="$PROJECT_DIR$/OSRS-Exchange-Pricer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OSRS-Exchange-Pricer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/OSRS-Exchange-Pricer_main.iml" group="OSRS-Exchange-Pricer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OSRS-Exchange-Pricer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/OSRS-Exchange-Pricer_test.iml" group="OSRS-Exchange-Pricer" />
+    </modules>
+  </component>
+</project>
